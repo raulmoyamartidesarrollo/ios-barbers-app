@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>402857061695-ca4krfb3d5pifoj2bta1rbsak86d72rm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.402857061695-ca4krfb3d5pifoj2bta1rbsak86d72rm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>402857061695-3itl4tn5m69sruvs64pu07a9enk4n55u.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBw6Xci24cNGDDDGh7MgFAGS5YWlKqc6is</string>
+	<key>GCM_SENDER_ID</key>
+	<string>402857061695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ios-app-peluquerias.ios-app-peluquerias</string>
+	<key>PROJECT_ID</key>
+	<string>fir-app-barbers</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-app-barbers.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:402857061695:ios:52e0c998b67193fb26778a</string>
+</dict>
+</plist>
